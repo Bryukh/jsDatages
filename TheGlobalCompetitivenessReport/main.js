@@ -33,7 +33,7 @@ canvas.append('text')
   .attr('font-weight', 500)
 
 canvas.append("svg:image")
-  .attr('xlink:href', '/_assets/logos/MDS_URL_trans_borderless.png')
+  .attr('xlink:href', '../_assets/logos/MDS_URL_trans_borderless.png')
   .attr('x', 30)
   .attr('y', svgHeight - 40)
   .attr('width', svgWidth / 2)
@@ -90,7 +90,7 @@ d3.csv("data.csv").then((data) => {
       .attr("y", -8.5)
       .attr("width", `${colWidth - 5}px`)
       // .attr("height", "40px")
-      .attr("xlink:href", el => `/_assets/flags64/${el.Country}.png`);
+      .attr("xlink:href", el => `../_assets/flags64/${el.Country}.png`);
   
   countries
     .append("text")
