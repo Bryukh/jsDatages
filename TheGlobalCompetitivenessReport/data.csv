@@ -1,0 +1,141 @@
+Rank,Country,Score,Diff
+1,United-States,85.6,— +0.8
+2,Singapore,83.5,— +0.5
+3,Germany,82.8,— +0.2
+4,Switzerland,82.6,— +0.2
+5,Japan,82.5,+3,+0.9
+6,Netherlands,82.4,–1,+0.2
+7,Hong-Kong,82.3,— +0.3
+8,United-Kingdom,82.0,–2,–0.1
+9,Sweden,81.7,— +0.1
+10,Denmark,80.6,+1,+0.7
+11,Finland,80.3,+1,+0.5
+12,Canada,79.9,–2,–0.1
+13,Taiwan,79.3,— +0.1
+14,Australia,78.9,+1,+0.7
+15,South-Korea,78.8,+2,+0.8
+16,Norway,78.2,–2,–0.8
+17,France,78.0,+1,+0.6
+18,New-Zealand,77.5,–2,–0.6
+19,Luxembourg,76.6,+3,+0.6
+20,Israel,76.6,— +0.4
+21,Belgium,76.6,–2,—
+22,Austria,76.3,–1,+0.2
+23,Ireland,75.7,— –0.3
+24,Iceland,74.5,— –0.1
+25,Malaysia,74.4,+1,+1.1
+26,Spain,74.2,–1,+0.4
+27,United-Arab-Emirates,73.4,— +1.1
+28,China,72.6,— +0.9
+29,Czech-Republic,71.2,— +0.3
+30,Qatar,71.0,+2,+0.6
+31,Italy,70.8,— +0.3
+32,Estonia,70.8,–2,—
+33,Chile,70.3,+1,+0.9
+34,Portugal,70.2,–1,+0.5
+35,Slovenia,69.6,— +1.1
+36,Malta,68.8,— +0.3
+37,Poland,68.2,— +0.2
+38,Thailand,67.5,+2,+1.3
+39,Saudi-Arabia,67.5,+2,+1.6
+40,Lithuania,67.1,–2,+0.7
+41,Slovakia,66.8,–2,+0.6
+42,Latvia,66.2,— +1.4
+43,Russia,65.6,+2,+1.7
+44,Cyprus,65.6,–1,+0.9
+45,Indonesia,64.9,+2,+1.4
+46,Mexico,64.6,–2,+0.5
+47,Oman,64.4,+14,+3.4
+48,Hungary,64.3,— +0.9
+49,Mauritius,63.7,— +0.8
+50,Bahrain,63.6,–4,–0.2
+51,Bulgaria,63.6,— +1.2
+52,Romania,63.5,— +1.3
+53,Uruguay,62.7,–3,—
+54,Kuwait,62.1,+2,+0.5
+55,Costa-Rica,62.1,–1,+0.4
+56,Philippines,62.1,+12,+2.3
+57,Greece,62.1,–4,+0.3
+58,India,62.0,+5,+1.2
+59,Kazakhstan,61.8,— +0.7
+60,Colombia,61.6,–3,+0.1
+61,Turkey,61.6,–3,+0.2
+62,Brunei,61.4,+2,+1
+63,Peru,61.3,–3,+0.2
+64,Panama,61.0,–9,–0.6
+65,Serbia,60.9,+5,+1.7
+66,Georgia,60.9,+1,+1.0
+67,South-Africa,60.8,–5,–0.1
+68,Croatia,60.1,–2,—
+69,Azerbaijan,60.0,–4,–0.2
+70,Armenia,59.9,+2,+1.0
+71,Montenegro,59.6,+2,+1.4
+72,Brazil,59.5,–3,–0.2
+73,Jordan,59.3,–2,+0.1
+74,Seychelles,58.5,+10,+3.3
+75,Morocco,58.5,+2,+0.8
+76,Albania,58.1,+4,+0.8
+77,Vietnam,58.1,–3,+0.1
+78,Trinidad-and-Tobago,57.9,–2,+0.1
+79,Jamaica,57.9,–1,+0.5
+80,Lebanon,57.7,–5,–0.1
+81,Argentina,57.5,–2,+0.1
+82,Dominican-Republic,57.4,— +1.8
+83,Ukraine,57.0,+6,+3.1
+84,Macedonia,56.6,n/a-n/a
+85,Sri-Lanka,56.0,–4,–0.4
+86,Ecuador,55.8,–3,+0.4
+87,Tunisia,55.6,–1,+1
+88,Moldova,55.5,–1,+0.9
+89,Iran,54.9,–1,+0.4
+90,Botswana,54.5,–5,–0.5
+91,Bosnia-and-Herzegovina,54.2,–1,+0.3
+92,Algeria,53.8,— +0.3
+93,Kenya,53.7,— +0.4
+94,Egypt,53.6,— +0.4
+95,Paraguay,53.4,+1,+0.5
+96,Guatemala,53.4,–5,–0.1
+97,Kyrgyzstan,53.0,+3,+1.1
+98,El-Salvador,52.8,— +0.4
+99,Mongolia,52.7,–4,–0.2
+100,Namibia,52.7,–1,+0.3
+101,Honduras,52.5,+2,+1.2
+102,Tajikistan,52.2,–5,–0.6
+103,Bangladesh,52.1,–1,+0.7
+104,Nicaragua,51.5,–3,—
+105,Bolivia,51.4,n/a-n/a
+106,Ghana,51.3,–2,+1.4
+107,Pakistan,51.1,–1,+1.3
+108,Rwanda,50.9,–1,+1.3
+109,Nepal,50.8,–1,+1.3
+110,Cambodia,50.2,–1,+0.8
+111,Cape-Verde,50.2,–6,+0.4
+112,Laos,49.3,–2,+0.7
+113,Senegal,49.0,–2,+0.6
+114,Cote-dIvoire,47.6,n/a-n/a
+115,Nigeria,47.5,–3,–0.5
+116,Tanzania,47.2,–2,+0.8
+117,Uganda,46.8,–4,–0.2
+118,Zambia,46.1,–3,+0.6
+119,Gambia,45.5,— +0.8
+120,Swaziland,45.3,–4,+0.2
+121,Cameroon,45.1,–3,+0.2
+122,Ethiopia,44.5,–2,+0.6
+123,Benin,44.4,–1,+0.8
+124,Burkina-Faso,43.9,n/a-n/a
+125,Mali,43.6,–4,–0.1
+126,Guinea,43.2,–3,+0.3
+127,Venezuela,43.2,–10,–1.9
+128,Zimbabwe,42.6,–4,+0.6
+129,Malawi,42.4,— +1.8
+130,Lesotho,42.3,–4,+0.9
+131,Mauritania,40.8,–3,+0.1
+132,Liberia,40.5,–2,+0.6
+133,Mozambique,39.8,–8,–2.1
+134,Sierra-Leone,38.8,–3,+0.1
+135,Democratic-Republic-of-the-Congo,38.2,–8,–2.6
+136,Burundi,37.5,–4,–1.0
+137,Angola,37.1,n/a-n/a
+138,Haiti,36.5,–5,+0.7
+139,Yemen,36.4,–4,+0.9
+140,Chad,35.5,–6,—
